@@ -5,7 +5,14 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
+- Desktop
+
 ![Screenshot 2024-02-27 at 13-57-25 Frontend Mentor Stats preview card component](https://github.com/maria-monteiros/Stats-preview-card-component/assets/104790525/f1346347-11b5-4974-ac19-8af2b9f288fd)
+
+- Mobile
+
+![Screenshot mobile](https://github.com/maria-monteiros/Stats-preview-card-component/assets/104790525/6dd022c3-33bb-49d6-b286-5d7cc1cc71f7)
+
 
 
 ### Links
